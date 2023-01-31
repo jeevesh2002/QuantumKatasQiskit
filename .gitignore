@@ -289,3 +289,9 @@ __pycache__
 
 # BizTalk build output
 build/267DevDivSNKey2048.snk
+
+# temporary test/practice files
+test.ipynb
+
+# Q# files
+Q#_*
