@@ -6,6 +6,25 @@ In this repository, we aim to provide a similar learning experience using the op
 
 Note: Some of the content in this repository may have been derived from the Microsoft Quantum Katas project and is subject to the terms of the MIT License.
 
+## Table of contents ##
+
+* [Learning path](#learning-path)
+
+
+## Learning path <a name="learning-path" /> ##
+
+> Here is the learning path we suggest you to follow if you are starting to learn quantum computing and quantum programming. Once you're comfortable with the basics, you're welcome to jump ahead to the topics that pique your interest!
+
+
+#### Quantum Computing Concepts: Qubits and Gates
+
+* **[Complex arithmetic (tutorial)](./tutorials/ComplexArithmetic/)**.
+  Learn about complex numbers and the mathematics required to work with quantum computing.
+* **[Linear algebra (tutorial)](./tutorials/LinearAlgebra/)**.
+  Learn about vectors and matrices used to represent quantum states and quantum operations.
+* **[The qubit (tutorial)](./tutorials/Qubit/)**.
+  Learn what a qubit is.
+
 
 ## Acknowledgments
 
